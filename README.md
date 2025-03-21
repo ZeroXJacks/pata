@@ -1,6 +1,6 @@
 ## Data Extractor v1.2 by @ZeroXJacks
 
-![Data Extractor](pata.png)
+![Data Extractor](pata1.png)
 
 ## Overview
 Data Extractor v1.2 is a Bash script for extracting sensitive data from websites, including:
